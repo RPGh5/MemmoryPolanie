@@ -61,7 +61,7 @@ function App() {
             Kliknij na kartę, aby zacząć grę.<br /><br />
           </>
         )}
-        
+        <center><b>Statystyki</b></center>
         Kliknięcia: {clicks} &nbsp;&nbsp;&nbsp; Pary:{foundPairs.length/2}
       </div>
     </div>
