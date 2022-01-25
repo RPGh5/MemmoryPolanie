@@ -116,5 +116,13 @@ body{
     transform:rotateY(0);
 }
 
+/*Chat css*/
+.chatbox .rcw-conversation-container .rcw-header {
+    background-color: #4d4d4d;
+}
 
+.chatbox .rcw-message .rcw-response {
+    background-color: black;
+    color: whitesmoke;
+}
 
